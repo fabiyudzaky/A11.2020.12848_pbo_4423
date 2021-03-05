@@ -35,5 +35,16 @@ public class variables {
         double hasilbagi;
         hasilbagi = (float)angka/(float)angka2;
         System.out.println(hasilbagi);
+
+        int a=2, b=5, c=7, d=1;
+        System.out.println(a+" "+b+" "+c+" "+d);
+        karakter ='2';
+        System.out.println(a+karakter);
+        String namaDepan = "Imanuel";
+        String namaBelakang = "Harkespan";
+        System.out.println(namaDepan+" "+namaBelakang);
+        boolean x;
+        x = true; // x = false
+        System.out.println(x);
     }
 }
