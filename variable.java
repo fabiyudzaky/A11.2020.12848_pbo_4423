@@ -1,6 +1,6 @@
 // package pbogab;
 
-public class variables {
+class variables {
     public static void main(String[] args){
         // tipe data
         // integers int
@@ -15,15 +15,17 @@ public class variables {
         System.out.println(angka);
         angka = 10;
 
-        int angka;
-        int $angka;
+        // int angka;
+        // int $angka;
         System.out.println(angka);
         char karakter;
-        karakter '&'; //variabel dengan tipe char value-nya diapit dengan single quote
+        karakter = '&'; //variabel dengan tipe char value-nya diapit dengan single quote
         char karakters;
         karakters = 'b';
         System.out.println(karakter);
-        double pecahan 0.5;
+        System.out.println(karakters);
+        double pecahan;
+        pecahan = 0.5;
         System.out.println(pecahan);
         System.out.printf("Angka=%d \n", angka); // style orang C dan C++
         System.out.println("Angka= "+pecahan+" adalah pecahan");
